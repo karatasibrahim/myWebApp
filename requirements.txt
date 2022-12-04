@@ -1,2 +1,3 @@
-django
+Django
 tensorflow-cpu
+matplotlib

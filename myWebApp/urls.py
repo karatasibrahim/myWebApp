@@ -19,6 +19,6 @@ from django.urls import include,re_path
 
 urlpatterns = [
      re_path("", include('imgUpload.urls')),
-     path(r'imageupload',include('imgUpload.urls')),    
-     path("admin/", admin.site.urls),
+     re_path(r'imageupload',include('imgUpload.urls')),
+    path("admin/", admin.site.urls),
 ]
