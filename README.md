@@ -64,7 +64,9 @@ settings.py içerisinde
 
 https://youtu.be/iUiRwQwS944?list=PLltgmy7jSOUh19FNGr0O_4yeePumnwsmz
 
-    
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/iUiRwQwS944/10358635/227653256-ace0b3cf-587a-4989-ae1d-c66fe44096a9.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
