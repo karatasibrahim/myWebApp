@@ -62,7 +62,7 @@ settings.py içerisinde
 
 'DIRS': [os.path.join(BASE_DIR, "templates"),], eklenir.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLltgmy7jSOUh19FNGr0O_4yeePumnwsmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/iUiRwQwS944?list=PLltgmy7jSOUh19FNGr0O_4yeePumnwsmz
 
     
 
